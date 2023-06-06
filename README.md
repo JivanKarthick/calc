@@ -79,7 +79,7 @@ calc.html
     </div>
 
 </body>
-<script src="/static/JS/index.js"></script>
+<script src="/static/JSS/index.js"></script>
 </html>
 
 index.js
